@@ -4,9 +4,9 @@
 ### Usage
 
 
-MyActivity.py -h -p PathToGoogeTakeout directory eg ./GoogleTakeOut
+    MyActivity.py -h -p PathToGoogeTakeout directory eg ./GoogleTakeOut
 
-This will generate a single csv file for each Section , ie Books, Ads, Search etc
+    This will generate a single csv file for each Section , ie Books, Ads, Search etc
 
     Ads_Activity.csv
     Books_Activity.csv
