@@ -1,10 +1,25 @@
-### Well hello there!
-### lxrocks Fork 
+# Google Takeout - 'My Activity' Analysis
+## Script to parse the "My Activity.html" files in "My Activity" directory under Takeout
 
-This Repository is meant to provide an example for *forking* a repository on GitHub.
-
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
-
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+### Usage
+MyActivity.py -h -p PathToGoogeTakeout directory eg ./GoogleTakeOut
+    This will generate a single csv file for each Section , ie Books, Ads, Search etc
+                Ads_Activity.csv
+                Books_Activity.csv
+                Chrome_Activity.csv
+                Developers_Activity.csv
+                Drive_Activity.csv
+                Finance_Activity.csv
+                Gmail_Activity.csv
+                Google_Apps_Activity.csv
+                Google_Play_Books_Activity.csv
+                Google_Play_Store_Activity.csv
+                Help_Activity.csv
+                Image_Search_Activity.csv
+                Maps_Activity.csv
+                News_Activity.csv
+                Search_Activity.csv
+                Shopping_Activity.csv
+                Takeout_Activity.csv
+                Video_Search_Activity.csv
+                YouTube_Activity.csv
