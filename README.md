@@ -37,4 +37,4 @@ The script found here will parse all the 'My Activity.html' files in the 'Takeou
     YouTube_Activity.csv
 ## example Usage
 
-![Example Image](https://lxrocks.github.com/MyActivityUsageEx1.png)
+![Example Image](https://github.com/lxrocks/GoogleTakeOutMyActivity/blob/master/MyActivityUsageEx1.png)
