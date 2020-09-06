@@ -35,3 +35,6 @@ The script found here will parse all the 'My Activity.html' files in the 'Takeou
     Takeout_Activity.csv
     Video_Search_Activity.csv
     YouTube_Activity.csv
+## example Usage
+
+![Example Image](https://lxrocks.github.com/MyActivityUsageEx1.png)
