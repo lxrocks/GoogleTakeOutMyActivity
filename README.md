@@ -1,7 +1,15 @@
 # Google Takeout - 'My Activity' Analysis
-## Script to parse the "My Activity.html" files in "My Activity" directory under Takeout
 
-### Usage
+## What is Google Takeout?
+Google takeout can be found at the following link https://takeout.google.com  Where you will be
+able to export a copy of content in your Google Account to back it up.
+
+## Take a look at your activty
+The script found here will parse all the 'My Activity.html' files in the 'Takeout/My Activity' folder
+
+
+### MyActivity.py Usage
+
 
 
     MyActivity.py -h -p PathToGoogeTakeout directory eg ./GoogleTakeOut
